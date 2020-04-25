@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>List of Items</h1>
+    <hr>
+    <div class="column">
+      <h2 class="right"><center>Chicken</center></h2>
+      <h3>Get the best Chef's special items for the cheapest price! Our collection has items. Check out our list!</h3>
+    </div>
+    <div class="column">
+      <h2 class="right"><center>Beef</center></h2>
+<h3>Get the best Chef's special items for the cheapest price! Our collection has items. Check out our list!</h3>
+    </div>
+    <div class="nextrow">
+      <h2 class="right"><center>Rice</center></h2>
+      <h3>Get the best Chef's special items for the cheapest price! Our collection has items. Check out our list!</h3>
+    </div>
+  </body>
+</html>
